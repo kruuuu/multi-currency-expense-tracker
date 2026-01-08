@@ -1,11 +1,25 @@
+# Multi-Currency Expense Tracker for International Students
 
-  # Multi-Currency Expense Tracker
+A modern web application built for international students to manage income and expenses while studying abroad.
 
-  This is a code bundle for Multi-Currency Expense Tracker. The original project is available at https://www.figma.com/design/mUDtvs3pR4PdyB3AiSscZm/Multi-Currency-Expense-Tracker.
+## Current Currency Support
+- EUR (Euro)
+- INR (Indian Rupee)
 
-  ## Running the code
+> More currencies will be added in future updates.
 
-  Run `npm i` to install the dependencies.
+## Features
+- Income and expense tracking
+- Multi-currency support (EUR / INR)
+- Automatic balance calculation
+- Budget alerts
+- Persistent storage using localStorage
 
-  Run `npm run dev` to start the development server.
-  
+## Tech Stack
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+## Live Demo
+(https://genuine-gaufre-8bebfe.netlify.app/)
